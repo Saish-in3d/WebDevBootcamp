@@ -1,0 +1,35 @@
+body {
+    background-color: black;
+}
+
+.ImgBox{
+
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 100px;
+    color: white;
+    font-family: "Libre Baskerville", serif;
+    text-align: center;
+}
+
+.Img{
+    border: 5px solid white;
+  width: 100%;
+  
+  
+  
+}
+
+h1{
+color: white;
+text-transform: uppercase;
+  font-size: 3rem;
+  text-align: center;
+}
+
+p{
+    color: white;
+    text-transform:none;
+
+    text-align: center;
+}
